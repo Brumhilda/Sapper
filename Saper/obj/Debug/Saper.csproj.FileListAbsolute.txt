@@ -1,0 +1,142 @@
+C:\Users\Lisa\source\repos\Saper\Saper\bin\Debug\Saper.dll
+C:\Users\Lisa\source\repos\Saper\Saper\bin\Debug\Saper.pdb
+C:\Users\Lisa\source\repos\Saper\Saper\bin\Debug\Saper.Saper.apk
+C:\Users\Lisa\source\repos\Saper\Saper\bin\Debug\Saper.Saper-Signed.apk
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\Saper.csproj.CoreCompileInputs.cache
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\Saper.dll
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\Saper.pdb
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\android\bin\Saper.Saper.apk
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\res\values\colors.xml
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\res\values\dimens.xml
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\res\values\ic_launcher_background.xml
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\res\values\strings.xml
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\res\values\styles.xml
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\res\menu\menu_main.xml
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\res\mipmap-hdpi\ic_launcher.png
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\res\mipmap-mdpi\ic_launcher.png
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\R.cs.flag
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\R.txt
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\uploadflags.txt
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\res\layout\initlayout.xml
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\res\layout\gamelayout.xml
+C:\Users\Lisa\source\repos\Saper\Saper\bin\Debug\Mono.Android.pdb
+C:\Users\Lisa\source\repos\Saper\Saper\bin\Debug\mscorlib.pdb
+C:\Users\Lisa\source\repos\Saper\Saper\bin\Debug\System.Core.pdb
+C:\Users\Lisa\source\repos\Saper\Saper\bin\Debug\System.pdb
+C:\Users\Lisa\source\repos\Saper\Saper\bin\Debug\System.Xml.pdb
+C:\Users\Lisa\source\repos\Saper\Saper\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\Lisa\source\repos\Saper\Saper\bin\Debug\System.Net.Http.pdb
+C:\Users\Lisa\source\repos\Saper\Saper\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\Lisa\source\repos\Saper\Saper\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\Lisa\source\repos\Saper\Saper\bin\Debug\Mono.Security.pdb
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\linksrc\System.Core.pdb
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\linksrc\System.pdb
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\linksrc\Saper.dll.mdb
+C:\Users\Lisa\source\repos\Saper\Saper\bin\Debug\Saper.dll.mdb
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\android\assets\Saper.dll.mdb
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\android\assets\System.Core.pdb
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\android\assets\System.pdb
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\Lisa\source\repos\Saper\Saper\obj\Debug\Saper.csprojAssemblyReference.cache
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\bin\Debug\Saper.dll
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\bin\Debug\Saper.pdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\bin\Debug\Saper.Saper.apk
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\bin\Debug\Saper.Saper-Signed.apk
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\Saper.csprojAssemblyReference.cache
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\Saper.csproj.CoreCompileInputs.cache
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\Saper.dll
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\Saper.pdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\android\bin\Saper.Saper.apk
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\res\values\colors.xml
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\res\values\dimens.xml
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\res\values\ic_launcher_background.xml
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\res\values\strings.xml
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\res\values\styles.xml
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\res\menu\menu_main.xml
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\res\mipmap-hdpi\ic_launcher.png
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\res\mipmap-mdpi\ic_launcher.png
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\res\layout\initlayout.xml
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\res\layout\gamelayout.xml
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\R.cs.flag
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\R.txt
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\uploadflags.txt
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\bin\Debug\Mono.Android.pdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\bin\Debug\Mono.Security.pdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\bin\Debug\mscorlib.pdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\bin\Debug\System.Core.pdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\bin\Debug\System.Net.Http.pdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\bin\Debug\System.pdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\bin\Debug\System.Xml.pdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\bin\Debug\Saper.dll.mdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\android\assets\Saper.dll.mdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\android\assets\System.Core.pdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\android\assets\System.pdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\linksrc\Saper.dll.mdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\linksrc\System.Core.pdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\linksrc\System.pdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\bin\Debug\Saper.dll
+C:\Users\Lisa\source\repos\Saper — копия (2)\Saper\obj\Debug\linksrc\Saper.dll.mdb
