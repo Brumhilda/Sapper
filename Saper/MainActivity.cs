@@ -2,21 +2,22 @@
 using Android.App;
 using Android.Widget;
 using Android.OS;
-using Sapper;
 using Android.Content;
+using Android.Support.V7.App;
+
 using Android.Views;
 
-namespace Sapper.Android.Views
+namespace Saper
 {
 	[Activity(Label = "@string/app_name", Theme = "@style/AppTheme.NoActionBar", MainLauncher = true)]
-	public partial class MainActivity : Activity
+	public partial class MainActivity : AppCompatActivity
 	{
         ISharedPreferences shPref;
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
             SetContentView(Resource.Layout.initLayout);
-            var vm = new PageVM
+            //var vm = new PageVM
             InitializeComponent();
         }
 

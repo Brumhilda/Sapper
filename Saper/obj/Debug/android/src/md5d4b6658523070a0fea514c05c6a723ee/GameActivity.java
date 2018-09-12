@@ -11,6 +11,7 @@ public class GameActivity
 	static {
 		__md_methods = 
 			"n_onCreate:(Landroid/os/Bundle;)V:GetOnCreate_Landroid_os_Bundle_Handler\n" +
+			"n_onSaveInstanceState:(Landroid/os/Bundle;)V:GetOnSaveInstanceState_Landroid_os_Bundle_Handler\n" +
 			"";
 		mono.android.Runtime.register ("Saper.GameActivity, Saper", GameActivity.class, __md_methods);
 	}
@@ -30,6 +31,14 @@ public class GameActivity
 	}
 
 	private native void n_onCreate (android.os.Bundle p0);
+
+
+	public void onSaveInstanceState (android.os.Bundle p0)
+	{
+		n_onSaveInstanceState (p0);
+	}
+
+	private native void n_onSaveInstanceState (android.os.Bundle p0);
 
 	private java.util.ArrayList refList;
 	public void monodroidAddReference (java.lang.Object obj)
